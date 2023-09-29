@@ -1,0 +1,63 @@
+#jumbotron{
+    padding: 7rem 2rem;
+    z-index: 1;
+}
+h1{
+    cursor: default;
+}
+h2{
+    cursor: default;
+}
+h3{
+    cursor: default;
+}
+
+#tentang{
+    padding: 7rem 2rem;
+}
+#coba{
+    padding-top: 30px;
+    padding-left: 4rem;
+
+}
+#box{
+   width: 500px;
+}
+#coba2{
+    padding-left: 4rem;
+}
+#p1{
+    margin-left: 53px;
+}
+#card{
+    padding: 7rem 2rem;
+}
+.text1{
+    transition: 0.4s;
+}
+.contoh{
+    display: none;
+   
+}
+#contoh2{
+    transition: 0.6=4s;
+}
+#contoh2:hover{
+    opacity: 0.6;
+    margin-top: 3px;
+}
+
+#contoh1{
+    transition: 0.4s;
+}
+#contoh:hover{
+    opacity: 0.6;
+    margin-top: 3px;
+}
+#contoh1:hover{
+    opacity: 0.6;
+    margin-top: 0;
+}
+.login-container{
+    margin: 10px 2rem;
+}
